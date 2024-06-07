@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @FahadDevLopee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Profile 
+- 👋 Hello ,, I'am Fahad 🇸🇦
+- 🚀 I’m A Programmers
+- 🌱 Musliam 🕌
+- 📫 Tell Me on Discord (._f99) !
 
 <!---
 FahadDevLopee/FahadDevLopee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
